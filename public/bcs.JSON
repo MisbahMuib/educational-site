@@ -1,0 +1,29 @@
+[
+    {
+        "key": "B002RL8IYK",
+        "group": "General",
+        "name": "BCS Preli Course",
+        "tutor": "Mir Kasem",
+        "enroll": "136",
+        "img": "https://d1yreyj8btzg0t.cloudfront.net/images/skills/thumb/BCS-Preli---Title-Thumbnail.jpg",
+        "price": 2500
+    },
+    {
+        "key": "B01LZ2WZGH",
+        "group": "General",
+        "name": "BCS Written & Viva Course",
+        "tutor": "Soikot Islam ",
+        "enroll": "331",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/71ohd503k1L.jpg",
+        "price": 10000
+    },
+    {
+        "key": "B01K1IO3QW",
+        "group": "General",
+        "name": "Full Bcs Preparation Course",
+        "tutor": "Md Kawsar hamid",
+        "enroll": "166",
+        "img": "https://newresultbd.com/wp-content/uploads/2020/11/43th-BCS.jpg",
+        "price": 20000
+    }
+]
